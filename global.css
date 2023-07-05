@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.head{
+    background-color:green;
+   color:white;
+   padding:15px;
+   text-align:center;
+   font-size:25px;
+ }
+   /* .navbar{
+     background-color:red;
+ } */
+ .navbar ul{
+   overflow:hidden;
+   padding: 10px 0px;
+ }
+ .navbar li{
+   float:left;
+   list-style:none;
+ }
+ .navbar li a{
+   color:black;
+   list-style:none;
+   margin:15px;
+   text-decoration: none;
+ }
+ .navbar li a:hover{
+ /*   background-color:blue; */
+   color:red;
+ }
+ .introduction h2{
+    margin-bottom: 1px;
+ }
+ .introduction p{
+    margin-top: 1px;
+ }
